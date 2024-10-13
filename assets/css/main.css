@@ -160,9 +160,13 @@ h6 {
 .header .profile-img img {
   margin: 10px auto;
   display: block;
-  width: 180px;
+  width: 200px; /* Garde la largeur fixe */
+  height: 190px; /* Ajuste la hauteur selon ton besoin */
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
+
+
+
 
 .header .logo {
   line-height: 1;
