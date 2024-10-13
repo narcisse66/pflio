@@ -161,7 +161,7 @@ h6 {
   margin: 10px auto;
   display: block;
   width: 200px; /* Garde la largeur fixe */
-  height: 190px; /* Ajuste la hauteur selon ton besoin */
+  height: 180px; /* Ajuste la hauteur selon ton besoin */
   border: 8px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
 
